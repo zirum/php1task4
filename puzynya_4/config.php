@@ -1,0 +1,4 @@
+<?
+	$smallImgDir="./small/";
+	$bigImgDir="./big/";
+?>
